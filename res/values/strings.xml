@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CableActivity!</string>
+    <string name="app_name">Cable</string>
+    <string name="add_regno">Reg No</string>
+    <string name="add_name">Name</string>
+    <string name="add_phoneno">Phone No</string>
+    <string name="add_address">Address</string>
+    <string name="add_location">Location</string>
+    <string name="add_balance">Balance Amount</string>
+    <string name="add_Standardamount">Standard Amount</string>
+    <string name="add_noofconnection">No of connection</string>
+    <string name="add_connectiondate">Connection Date</string>
+    <string name="add_disconnect">Disconnect</string>
+    <string name="add_freeconnection">Free Connection</string>
+    <string name="add_offeramount">Offer Amount</string>
+    <string name="add_doorno">Door No</string>
+    <string name="hint_name">Enter name</string>
+    <string name="add_save">Save</string>
+    <string name="nonotes">no_notes</string>
+    <string name="list_button_clicked"></string>
+    <string name="search_text">search</string>
+    <string name="export_text">text</string>
+    <string name="export_button">button</string>
+    
+    
+
+</resources>
